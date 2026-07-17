@@ -1,0 +1,54 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# MRI datasets
+data/
+datasets/
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Model checkpoints and results
+results/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Logs
+slurm_logs/
+*.log
+*.out
+*.err
+slurm-*.out
+
+# Generated outputs
+outputs/
+samples/
+runs/
+wandb/
+visdom/
+
+# Credentials and secrets
+kaggle.json
+*.pem
+*.key
+
+# Editor and operating system
+.vscode/
+.idea/
+.DS_Store
+
+
