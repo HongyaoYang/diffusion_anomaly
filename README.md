@@ -1,6 +1,6 @@
 # Diffusion Anomaly Detection
 
-Reproduction and extension of diffusion-based anomaly detection methods for brain MRI.
+Extension of diffusion-based anomaly detection methods for brain MRI.
 
 ## Project structure
 
